@@ -3,6 +3,7 @@
 Un método simplificado para saber la fase lunar de un día cualquiera puede ser el expuesto en la
 dirección **http://mizar.blogalia.com/historias/21732** que dice:
 ¿cuál fué la fase lunar el día 6 de Diciembre de 2004?
+
   En primer lugar, sumamos las cifras del año actual ( 2004=2+0+0+4=6 )
   Multiplicamos el resultado por 11: ( 6x11=66 )
   A la cifra anterior, le sumamos la cifra correspondiente al día y la cifra correspondiente al mes
@@ -10,10 +11,12 @@ que nos interesan: ( 66+6+12=84 )
   Al resultado le restamos 30 sucesivamente hasta que no se puedan seguir realizando
 sustracciones: ( 84-30=54 ; 54-30=24 - ya no podemos seguir )
   Este resultado es la edad de la Luna el día buscado
+  
 Así pues el día 6 de diciembre la edad de la Luna es de 24 días, lo cual corresponde a 3 días después del
 cuarto menguante. Si el resultado es 0 tendremos luna nueva, si es 7 cuarto creciente, para 14 tenemos
 luna llena, para 21 cuarto menguante. Los resultados intermedios determinan los valores entre fases
 correspondientes.
+
 El método es válido desde el año 2000 al 2009.
 ¿Y qué pasa a partir del 2010?
 Hay una forma simple de prolongar la validez del método hasta 2019, para ello basta con tratar los dos
