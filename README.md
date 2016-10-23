@@ -31,14 +31,22 @@ encontrarse en el intervalo indicado.
 
 
 Con estas indicaciones se desea añadir a la clase Date los siguientes métodos:
+
 **moonAge**     indicará la edad de la luna en la forma que se comenta en el blog para la
             fecha contenida en la instancia.
+            
 **isFullMoon**  indica si en la fecha contenida en la instancia hay luna llena
+
 **isNewMoon** indica si en la fecha contenida en la instancia hay luna nueva
-**isFirstQuarter**  indica si en la fecha de la instancia hay cuarto creciente  
+
+**isFirstQuarter**  indica si en la fecha de la instancia hay cuarto creciente 
+
 **isLastQuarter** indica si en la fecha de la instancia hay cuarto menguante
+
 **fullMoonDay** devuelve el día del mes contenido en la instancia en que hay luna llena
+
 **newMoonDay**  devuelve el día del mes contenido en la instancia en que hay luna nueva
+
 **easterSundayDay** devuelve la fecha del domingo de resurrección del año que se pase como
 argumento
 
