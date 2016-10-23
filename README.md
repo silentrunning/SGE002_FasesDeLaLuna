@@ -64,4 +64,4 @@ llena de primavera (la primavera, por lo general, comienza el 21 de marzo).
 Los métodos expuestos solo devolverán valores si la fecha de la instancia es posterior al 1 de Enero de
 2000. Con otras fechas devolverán un error en tiempo de ejecución con un mensaje de “este método
 solo se puede invocar con fechas posteriores al año 2000”
-Crear un archivo moonTools.js en la que guardar todas estas definiciones de métodos y subir.
+Crear un archivo moonTools.js en la que guardar todas estas definiciones de métodos.
